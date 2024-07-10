@@ -1,5 +1,8 @@
 # Node modules
 **/node_modules/
 
+# SvelteKit files
+**/.svelte-kit/ 
+
 # Environment variables
 .env
